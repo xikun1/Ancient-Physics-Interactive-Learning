@@ -48,28 +48,28 @@ Watch lightning strike the Golden Hall model and see the hidden card appear.
 
 ![Lightning striking the Golden Hall model before a hidden card appears](assets/gifs/lightning-hall.gif)
 
-## 中式园林设计思想（部分）
+## Chinese Garden Design (Selected Examples) / 中式园林设计思想（部分）
 
-以下根据项目论文第 2.3 节（第 21 至 22 页）整理。配图取自论文图 2.12 和项目演示视频。
+### 1. Entrance Rockery / 开门见山，先藏后露
 
-### 开门见山，先藏后露
+Look through the entrance gate to see how the rockery screens most of the courtyard. As you walk around the rocks, the courtyard and exhibition halls gradually come into view.
 
-园门内的假山遮住通往庭院深处的视线。游人入门先见山石，绕过假山才逐步看见院落与展厅。这样一藏一露，让新的景致随着行走逐渐显现。
+![A rockery framed by the entrance gate, partly concealing the courtyard](assets/garden/entrance-rockery.jpg)
 
-![从园门望向门后的假山，山石遮住了后方的大部分院景](assets/garden/entrance-rockery.jpg)
+### 2. Mountain Backdrop and Open Water / 远山围合，近水开敞
 
-*门洞框住假山，只露出一角院景（论文图 2.12）。*
+Look across the open pond towards the buildings on its banks and the mountains beyond. The water opens up the foreground, while the distant ridges frame the garden.
 
-### 远山围合，近水开敞
+![A lotus pond in the foreground, buildings on its banks, and distant mountains](assets/garden/waterside-and-mountains.jpg)
 
-项目以远山为背景，让山脊成为庭院的自然边界。建筑前留出开阔水面，从近处的池水望向岸边的屋顶和远处的山脊，园景就有了远近层次。
+### 3. Changing Views Along the Path / 曲径连廊，移步换景
 
-![近处的荷塘、岸边的建筑和背景的群山形成远近层次](assets/garden/waterside-and-mountains.jpg)
+Follow the winding paths, linked corridors, and small bridges of the asymmetrical courtyard, inspired by classical Suzhou gardens. The paired views show how the scene opens up as you step out of the corridor.
 
-### 曲径连廊，移步换景
+![A view between the corridor columns on the left and an open view of the courtyard on the right](assets/garden/changing-views.jpg)
 
-庭院借鉴苏州园林的非对称布局，用曲折的游路、相连的廊道和跨水小桥串起不同观景点。沿廊行走时，从柱间可以瞥见部分园景。转出廊道，水面和庭院随即展开。
+### 4. Interactive Map Navigation / 地图导航
 
-![左图沿廊前行，从柱间看见局部园景，右图走出廊道后望向开阔的池畔庭院](assets/garden/changing-views.jpg)
+Open the in-game map to locate the four exhibition halls. Click a hall's button on the map to teleport directly to its entrance and continue exploring.
 
-*左图为廊内视角，右图为同一条游线上出廊后的视角。*
+![In-game map with buttons for the Acoustics, Optics and Thermal Physics, Mechanics, and Electromagnetism halls](assets/garden/interactive-map.jpg)
