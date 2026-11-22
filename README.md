@@ -8,21 +8,23 @@ Before downloading the programme, you may wish to watch the video at the link pr
 
 Download all three archive volumes from the Release Assets section. Extract the `.7z.001` file using 7-Zip, then launch `Museum.exe` from the extracted application folder.
 
-## Project Highlights / 项目亮点
+## Interaction Highlights (Selected Demos) / 交互亮点（部分展示）
 
 Animated excerpts from the project demonstration video. Watch the full video above for audio and the complete walkthrough.
 
-### 1. Garden and waterwheel / 园林探索与水车互动
+### 1. Sundial interaction / 日晷互动
 
-Explore the classical garden and interact with its waterwheel exhibit.
+Use the sundial's shadow to choose a time range, then see the answer explained.
 
-![An interactive waterwheel beside the garden's red bridge](assets/gifs/waterwheel-garden.gif)
+![Choosing a time from the sundial's shadow and viewing the result](assets/gifs/sundial.gif)
 
 ### 2. AI-assisted learning / AI 智能问答
 
 Ask the in-world assistant how ancient instruments work and follow its explanations.
 
 ![The in-world AI assistant explaining how the sheng produces sound](assets/gifs/ai-learning-assistant.gif)
+
+*The wait for the reply is sped up in this clip. / 回答前的等待已加速。*
 
 ### 3. Chime-bell interaction / 编钟演奏
 
@@ -41,3 +43,9 @@ Trigger the cannon exhibit and observe its firing effect.
 Complete the fire-making interaction and see the wood ignite.
 
 ![Friction fire-making progressing to ignition and achievement feedback](assets/gifs/friction-firemaking.gif)
+
+### 6. The Lightning Hall / 雷火炼电
+
+Watch lightning strike the Golden Hall model and see the hidden card appear.
+
+![Lightning striking the Golden Hall model before a hidden card appears](assets/gifs/lightning-hall.gif)
