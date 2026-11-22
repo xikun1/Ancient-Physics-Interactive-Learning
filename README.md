@@ -50,9 +50,11 @@ Watch lightning strike the Golden Hall model and see the hidden card appear.
 
 ## Chinese Garden Design (Selected Examples) / 中式园林设计思想（部分）
 
+The garden draws on the design and layout principles of Suzhou's classical gardens.
+
 ### 1. Entrance Rockery / 开门见山，先藏后露
 
-Look through the entrance gate to see how the rockery screens most of the courtyard. As you walk around the rocks, the courtyard and exhibition halls gradually come into view.
+Look through the entrance gate to see how the rockery screens most of the courtyard. As you walk around the rocks, the courtyard and exhibition halls gradually come into view. The view illustrates the Chinese idiom *kāi mén jiàn shān* (开门见山), which literally means “open the door and see the mountain.”
 
 ![A rockery framed by the entrance gate, partly concealing the courtyard](assets/garden/entrance-rockery.jpg)
 
@@ -72,4 +74,4 @@ Follow the winding paths, linked corridors, and small bridges of the asymmetrica
 
 Open the in-game map to locate the four exhibition halls. Click a hall's button on the map to teleport directly to its entrance and continue exploring.
 
-![In-game map with buttons for the Acoustics, Optics and Thermal Physics, Mechanics, and Electromagnetism halls](assets/garden/interactive-map.jpg)
+![In-game map with buttons for the Acoustics, Optics and Thermal Physics, Mechanics, and Electromagnetism halls](assets/garden/interactive-map.png)
