@@ -16,37 +16,55 @@ Animated excerpts from the project demonstration video. Watch the full video abo
 
 Use the sundial's shadow to choose a time range, then see the answer explained.
 
-![Choosing a time from the sundial's shadow and viewing the result](assets/gifs/sundial.gif)
+<picture>
+  <source type="image/avif" srcset="assets/animations/sundial.avif">
+  <img src="assets/gifs/sundial.gif" alt="Choosing a time from the sundial's shadow and viewing the result" width="800">
+</picture>
 
 ### 2. AI-assisted learning / AI 智能问答
 
 Ask the in-world assistant how ancient instruments work and follow its explanations.
 
-![The in-world AI assistant explaining how the sheng produces sound](assets/gifs/ai-learning-assistant.gif)
+<picture>
+  <source type="image/avif" srcset="assets/animations/ai-learning-assistant.avif">
+  <img src="assets/gifs/ai-learning-assistant.gif" alt="The in-world AI assistant explaining how the sheng produces sound" width="900">
+</picture>
 
 ### 3. Chime-bell interaction / 编钟演奏
 
 Play the ancient chime bells and see musical-note and achievement feedback.
 
-![Playing bronze chime bells with musical-note and achievement feedback](assets/gifs/chime-bell-interaction.gif)
+<picture>
+  <source type="image/avif" srcset="assets/animations/chime-bell-interaction.avif">
+  <img src="assets/gifs/chime-bell-interaction.gif" alt="Playing bronze chime bells with musical-note and achievement feedback" width="800">
+</picture>
 
 ### 4. Cannon firing / 火炮发射
 
 Trigger the cannon exhibit and observe its firing effect.
 
-![Muzzle flash from the interactive ancient cannon](assets/gifs/cannon-firing.gif)
+<picture>
+  <source type="image/avif" srcset="assets/animations/cannon-firing.avif">
+  <img src="assets/gifs/cannon-firing.gif" alt="Muzzle flash from the interactive ancient cannon" width="800">
+</picture>
 
 ### 5. Friction fire-making / 钻木取火
 
 Complete the fire-making interaction and see the wood ignite.
 
-![Friction fire-making progressing to ignition and achievement feedback](assets/gifs/friction-firemaking.gif)
+<picture>
+  <source type="image/avif" srcset="assets/animations/friction-firemaking.avif">
+  <img src="assets/gifs/friction-firemaking.gif" alt="Friction fire-making progressing to ignition and achievement feedback" width="800">
+</picture>
 
 ### 6. The Lightning Hall / 雷火炼电
 
 Watch lightning strike the Golden Hall model and see the hidden card appear.
 
-![Lightning striking the Golden Hall model before a hidden card appears](assets/gifs/lightning-hall.gif)
+<picture>
+  <source type="image/avif" srcset="assets/animations/lightning-hall.avif">
+  <img src="assets/gifs/lightning-hall.gif" alt="Lightning striking the Golden Hall model before a hidden card appears" width="800">
+</picture>
 
 ## Chinese Garden Design (Selected Examples) / 中式园林设计思想（部分）
 
