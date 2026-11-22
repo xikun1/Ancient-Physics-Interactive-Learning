@@ -74,22 +74,42 @@ The garden draws on the design and layout principles of Suzhou's classical garde
 
 Look through the entrance gate to see how the rockery screens most of the courtyard. As you walk around the rocks, the courtyard and exhibition halls gradually come into view. The view illustrates the Chinese idiom *kāi mén jiàn shān* (开门见山), which literally means “open the door and see the mountain.”
 
-![A rockery framed by the entrance gate, partly concealing the courtyard](assets/garden/entrance-rockery.jpg)
+<a href="assets/garden/entrance-rockery.avif?raw=1">
+  <picture>
+    <source type="image/avif" srcset="assets/garden/entrance-rockery.avif">
+    <img src="assets/garden/entrance-rockery.jpg" alt="A rockery framed by the entrance gate, partly concealing the courtyard">
+  </picture>
+</a>
 
 ### 2. Mountain Backdrop and Open Water / 远山围合，近水开敞
 
 Look across the open pond towards the buildings on its banks and the mountains beyond. The water opens up the foreground, while the distant ridges frame the garden.
 
-![A lotus pond in the foreground, buildings on its banks, and distant mountains](assets/garden/waterside-and-mountains.jpg)
+<a href="assets/garden/waterside-and-mountains.avif?raw=1">
+  <picture>
+    <source type="image/avif" srcset="assets/garden/waterside-and-mountains.avif">
+    <img src="assets/garden/waterside-and-mountains.jpg" alt="A lotus pond in the foreground, buildings on its banks, and distant mountains">
+  </picture>
+</a>
 
 ### 3. Changing Views Along the Path / 曲径连廊，移步换景
 
 Follow the winding paths, linked corridors, and small bridges of the asymmetrical courtyard, inspired by classical Suzhou gardens. The paired views show how the scene opens up as you step out of the corridor.
 
-![A view between the corridor columns on the left and an open view of the courtyard on the right](assets/garden/changing-views.jpg)
+<a href="assets/garden/changing-views.avif?raw=1">
+  <picture>
+    <source type="image/avif" srcset="assets/garden/changing-views.avif">
+    <img src="assets/garden/changing-views.jpg" alt="A view between the corridor columns on the left and an open view of the courtyard on the right">
+  </picture>
+</a>
 
 ### 4. Interactive Map Navigation / 地图导航
 
 Open the in-game map to locate the four exhibition halls. Click a hall's button on the map to teleport directly to its entrance and continue exploring.
 
-![In-game map with buttons for the Acoustics, Optics and Thermal Physics, Mechanics, and Electromagnetism halls](assets/garden/interactive-map.png)
+<a href="assets/garden/interactive-map.png">
+  <picture>
+    <source type="image/avif" srcset="assets/garden/interactive-map.avif">
+    <img src="assets/garden/interactive-map.png" alt="In-game map with buttons for the Acoustics, Optics and Thermal Physics, Mechanics, and Electromagnetism halls">
+  </picture>
+</a>
