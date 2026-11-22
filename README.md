@@ -24,8 +24,6 @@ Ask the in-world assistant how ancient instruments work and follow its explanati
 
 ![The in-world AI assistant explaining how the sheng produces sound](assets/gifs/ai-learning-assistant.gif)
 
-*The wait for the reply is sped up in this clip. / 回答前的等待已加速。*
-
 ### 3. Chime-bell interaction / 编钟演奏
 
 Play the ancient chime bells and see musical-note and achievement feedback.
